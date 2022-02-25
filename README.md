@@ -1,5 +1,8 @@
 # Blooket-Hacks
 #### a varity of hacks
+
+### if you find any bugs or any hacks dont work, open a [issue](https://github.com/ZasticBradyn/Blooket-Hacks/issues/new).
+
 note: i coded theses myself, i didnt steal theses from gliz/schoolcheats
 
 
