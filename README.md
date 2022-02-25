@@ -5,7 +5,9 @@
 
 note: i coded theses myself, i didnt steal theses from gliz/schoolcheats
 
-## Also check out [Dentamon](https://github.com/Dentamon/The-Blooket-Hack-v2)'s Blooket hacks.
+## Other Repos
+- Also check out [Dentamon](https://github.com/Dentamon/The-Blooket-Hack-v2)'s Blooket hacks.
+- Check out the original hacks by [gliz](https://github.com/glixzzy/blooket-hack)'s hacks (Deleted due to c&d)
 
 ## How to use
 
