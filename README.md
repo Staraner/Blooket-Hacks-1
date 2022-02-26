@@ -22,6 +22,6 @@ The Blooket hack should work immediately after.
 If something goes wrong, open an issue [here](https://github.com/ZasticBradyn/Blooket-Hacks/issues/new)
 
 ### credits:
-- zastix (me) - all the code
-- gliz - giving me a basic understanding on how to hack blooket and the README.md preset for folders.
-- Dentamon - The How to Use part on the README.md
+- [zastix](https://github.com/ZasticBradyn/) (me) - all the code
+- [gliz](https://github.com/glixzzy) - giving me a basic understanding on how to hack blooket and the README.md preset for folders.
+- [Dentamon](https://github.com/Dentamon) - The How to Use part on the README.md
