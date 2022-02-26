@@ -12,6 +12,7 @@ note: i coded theses myself, i didnt steal theses from gliz/schoolcheats
 ## Other Repos
 - Also check out [Dentamon](https://github.com/Dentamon/The-Blooket-Hack-v2)'s Blooket hacks.
 - Check out the original hacks by [gliz](https://github.com/glixzzy/blooket-hack) (Deleted due to c&d)
+- My [BlooketUI](https://github.com/ZasticBradyn/BlooketUI) repository is just these hacks but better and easier to use
 
 # How to use
 First, copy the script that you want to use from the dedicated file.
