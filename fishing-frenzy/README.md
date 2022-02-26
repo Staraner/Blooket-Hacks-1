@@ -8,4 +8,4 @@
 
 # SetFish.js
 
-### Automaticly makes the fish youve catched worth 100000000 (only use if you already have a fish catched.
+### Automaticly makes the fish youve catched worth 100000000 (only use if you already have a fish catched).
