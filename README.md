@@ -13,29 +13,15 @@ note: i coded theses myself, i didnt steal theses from gliz/schoolcheats
 - Also check out [Dentamon](https://github.com/Dentamon/The-Blooket-Hack-v2)'s Blooket hacks.
 - Check out the original hacks by [gliz](https://github.com/glixzzy/blooket-hack) (Deleted due to c&d)
 
-## How to use
-
-Here is how to use the hacks with videos showing step-by-step how to install the hacks and how to use them.
-
-### Console method
-
-This only works if inspect element enabled and you can open console. If inspect is disabled for you scroll down for the bookmarklet method.
-
-https://user-images.githubusercontent.com/73669084/142779206-6cef86be-b2a5-4958-8637-cb6bde2a42da.mp4
-
-
-### Bookmarklet method
-~~https://streamable.com/t4u7i7~~
-
-1. Make a bookmark (the star on the right side of the url bar if you are using chrome)
-2. Click on more at the bottom left corner
-3. Delete everything in the url box
-4. Type `javascript:`
-5. Paste in the code
-
-https://user-images.githubusercontent.com/58097612/145106447-4fd27355-3a2c-4b0e-8976-3fc51ba8aae8.mp4
+# How to use
+First, copy the script that you want to use from the dedicated file.
+Then, type in `javascript:` into the adress bar. 
+Afterwards, paste in the script that you have copied.
+Once you have finished that, just press enter to activate the hack.
+The Blooket hack should work immediately after.
+If something goes wrong, open an issue [here](https://github.com/ZasticBradyn/Blooket-Hacks/issues/new)
 
 ### credits:
-zastix (me) - all the code
-
-gliz - giving me a basic understanding on how to hack blooket and the README.md
+- zastix (me) - all the code
+- gliz - giving me a basic understanding on how to hack blooket and the README.md preset for folders.
+- Dentamon - The How to Use part on the README.md
