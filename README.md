@@ -1,5 +1,5 @@
 # Blooket-Hacks
-#### a varity of hacks
+#### a varity of hacks coded by [zastix](https://github.com/ZasticBradyn/)
 
 ### if you find any bugs or any hacks dont work, open a [issue](https://github.com/ZasticBradyn/Blooket-Hacks/issues/new).
 
