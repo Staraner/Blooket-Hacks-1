@@ -7,8 +7,7 @@ note: i coded theses myself, i didnt steal theses from gliz/schoolcheats
 
 ## Issues
 ### We are currently aware of the following issues and we are working to fix them
-- Most tower defense cheats are down
-- Most global cheats dont work in game
+- none, if you have any issues report them [here](https://github.com/ZasticBradyn/Blooket-Hacks/issues/new)
 
 ## Other Repos
 - Also check out [Dentamon](https://github.com/Dentamon/The-Blooket-Hack-v2)'s Blooket hacks.
