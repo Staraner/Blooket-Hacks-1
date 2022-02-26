@@ -6,7 +6,7 @@
 note: i coded theses myself, i didnt steal theses from gliz/schoolcheats
 
 ## Issues
-### We are currently aware of the following issues and we are working to fix them
+### I are currently aware of the following issues and we are working to fix them
 - none, if you have any issues report them [here](https://github.com/ZasticBradyn/Blooket-Hacks/issues/new)
 
 ## Other Repos
