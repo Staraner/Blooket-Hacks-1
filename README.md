@@ -1,7 +1,7 @@
 # Blooket-Hacks
 #### a varity of hacks coded by [zastix](https://github.com/ZasticBradyn/)
 
-### if you find any bugs or have a suggestion open a [issue](https://github.com/ZasticBradyn/Blooket-Hacks/issues/new).
+### if you find any bugs or have any suggestion open a [issue](https://github.com/ZasticBradyn/Blooket-Hacks/issues/new).
 
 note: i coded theses myself, i didnt steal theses from gliz/schoolcheats
 
