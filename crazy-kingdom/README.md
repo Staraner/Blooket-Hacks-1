@@ -8,16 +8,16 @@
 
 # SetGold.js
 
-### Allows you to set your gold to any amoount
+### Allows you to set your gold to any amount
 
 # SetHappiness.js
 
-### Allows you to set your happiness to any amoount
+### Allows you to set your happiness to any amount
 
 # SetMaterials.js
 
-### Allows you to set your amount of materials to any amoount
+### Allows you to set your amount of materials to any amount
 
 # SetPeople.js
 
-### Allows you to set your amount of people to any amoount
+### Allows you to set your amount of people to any amount
