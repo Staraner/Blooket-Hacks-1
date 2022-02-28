@@ -7,7 +7,7 @@ note: i coded theses myself, i didnt steal theses from gliz/schoolcheats
 
 ## Issues
 ### Im currently aware of the following issues and im working to fix them:
-- none, if you have any issues report them [here](https://github.com/ZasticBradyn/Blooket-Hacks/issues/new)
+- Blook rush hacks are mostly broken (due to it taking prompt data as a string not a int)
 
 ## Other Repos
 - Also check out [Dentamon](https://github.com/Dentamon/The-Blooket-Hack-v2)'s Blooket hacks.
