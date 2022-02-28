@@ -7,7 +7,7 @@ if you find any bugs or have any suggestion open a [issue](https://github.com/Za
 
 ## Issues
 ### Im currently aware of the following issues and im working to fix them:
-- Blook rush hacks are mostly broken (due to it taking prompt data as a string not a int)
+- None if you have a issue open one [here](https://github.com/ZasticBradyn/Blooket-Hacks/issues/new).
 
 ## Other Repos
 - Also check out [Dentamon](https://github.com/Dentamon/The-Blooket-Hack-v2)'s Blooket hacks.
