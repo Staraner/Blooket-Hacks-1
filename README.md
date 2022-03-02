@@ -3,7 +3,7 @@
 
 if you find any bugs or have any suggestion open a [issue](https://github.com/ZasticBradyn/Blooket-Hacks/issues/new).
 
-### note: No hacks will be created for Blook-Rush due to me not knowing how to use firebase.
+### note: No hacks will be created for Blook-Rush due to it having a system to prevent cheating (i think)
 
 ## Issues
 ### Im currently aware of the following issues and im working to fix them:
