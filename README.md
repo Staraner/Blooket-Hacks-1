@@ -2,9 +2,9 @@
 a varity of hacks coded by [zastix](https://github.com/ZasticBradyn/)<br>
 
 if you find any bugs or have any suggestion open a [issue](https://github.com/ZasticBradyn/Blooket-Hacks/issues/new).
-# WARNING
-blooket has a anticheat in place currently, so if you get banned by using<br>
-Any of our cheats, We dont take responsibility, it is your choice to use them.
+# Announcements
+- Welcome back everyone, this project is now public again!
+- Warning: Blooket has a Anticheat, if you get banned from our scripts we dont take responsibilty.
 ## Issues
 ### Im currently aware of the following issues and im working to fix them:
 - None if you have a issue open one [here](https://github.com/ZasticBradyn/Blooket-Hacks/issues/new).
