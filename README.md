@@ -1,10 +1,10 @@
 # Blooket-Hacks
-#### a varity of hacks coded by [zastix](https://github.com/ZasticBradyn/)
+a varity of hacks coded by [zastix](https://github.com/ZasticBradyn/)<br>
 
 if you find any bugs or have any suggestion open a [issue](https://github.com/ZasticBradyn/Blooket-Hacks/issues/new).
-
-### note: No hacks will be created for Blook-Rush due to it having a system to prevent cheating (i think)
-
+# WARNING
+blooket has a anticheat in place currently, so if you get banned by using<br>
+Any of our cheats, We dont take responsibility, it is your choice to use them.
 ## Issues
 ### Im currently aware of the following issues and im working to fix them:
 - None if you have a issue open one [here](https://github.com/ZasticBradyn/Blooket-Hacks/issues/new).
@@ -14,7 +14,7 @@ if you find any bugs or have any suggestion open a [issue](https://github.com/Za
 - Check out the original hacks by [gliz](https://github.com/glixzzy/blooket-hack) (Deleted due to c&d)
 - My [BlooketUI](https://github.com/ZasticBradyn/BlooketUI) repository is just these hacks but better and easier to use
 
-# How to use
+## How to use
 First, copy the script that you want to use from the dedicated file.
 Then, type in `javascript:` into the adress bar. 
 Afterwards, paste in the script that you have copied.
