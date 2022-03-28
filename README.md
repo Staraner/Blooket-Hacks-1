@@ -1,9 +1,5 @@
 # Blooket-Hacks
 a varity of hacks coded by [zastix](https://github.com/ZasticBradyn/)<br>
-<a href="https://github.com/Dentamon/github-readme-stats/issues">
-      <img alt="Issues" src="https://img.shields.io/github/issues/Dentamon/github-readme-stats?color=0088ff" />
-<a href="https://github.com/Dentamon/github-readme-stats/pulls">
-      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/Dentamon/github-readme-stats?color=0088ff" />
 
 if you find any bugs or have any suggestion open a [issue](https://github.com/ZasticBradyn/Blooket-Hacks/issues/new).
 # Announcements
@@ -29,3 +25,8 @@ if you find any bugs or have any suggestion open a [issue](https://github.com/Za
 - [zastix](https://github.com/ZasticBradyn/) (me) - all the code
 - [gliz](https://github.com/glixzzy) - being a bitch (and leaking code so i can use it)
 - [Dentamon](https://github.com/Dentamon) - The How to Use part on the README.md
+
+<a href="https://github.com/Dentamon/github-readme-stats/issues">
+      <img alt="Issues" src="https://img.shields.io/github/issues/Dentamon/github-readme-stats?color=0088ff" />
+<a href="https://github.com/Dentamon/github-readme-stats/pulls">
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/Dentamon/github-readme-stats?color=0088ff" />
