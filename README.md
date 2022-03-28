@@ -1,5 +1,9 @@
 # Blooket-Hacks
 a varity of hacks coded by [zastix](https://github.com/ZasticBradyn/)<br>
+<a href="https://github.com/Dentamon/github-readme-stats/issues">
+      <img alt="Issues" src="https://img.shields.io/github/issues/Dentamon/github-readme-stats?color=0088ff" />
+<a href="https://github.com/Dentamon/github-readme-stats/pulls">
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/Dentamon/github-readme-stats?color=0088ff" />
 
 if you find any bugs or have any suggestion open a [issue](https://github.com/ZasticBradyn/Blooket-Hacks/issues/new).
 # Announcements
